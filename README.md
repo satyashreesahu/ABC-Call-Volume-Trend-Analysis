@@ -1,1 +1,5 @@
-# satyashreesahu-ABC-Call-Volume-Trend-Analysis
+# ABC-Call-Volume-Trend-Analysis
+This project is all about looking closely at how customers interact with ABC, an insurance company, especially when they call in. There are bunch of information to work with for 23 days, including details like the names of the people helping customers, how long customers wait, when the calls happen, how long they last, and whether they get answered or not.
+Think of the Customer Experience (CX) team as the detectives of the company. They study what customers say and do and share what they find with everyone else. Their job covers a lot, from managing programs that improve how customers feel to talking within the company about customers' journeys and dealing with customer info.
+Nowadays, we use smart tools (like Interactive Voice Response, Robotic Process Automation, Predictive Analytics, and Intelligent Routing) to make customers' experiences even better.
+In the CX team, there's a key player called the customer service representative, or call center agent. They help customers through different ways, like emails, calls, and social media. This project zooms in on calls from customers, aiming to handle them well, make customers happy, and turn them into big fans of the company.
